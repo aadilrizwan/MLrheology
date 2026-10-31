@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (generated, reproducible)
+results/figures/*.png
+results/figures/*.pdf
+results/tables/*.csv
+results/tables/*.tex
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep raw, ignore processed)
+data/processed/*
+!data/processed/.gitkeep
