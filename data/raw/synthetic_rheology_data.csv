@@ -1,0 +1,361 @@
+fluid_type,concentration,temperature,shear_rate,shear_stress,apparent_viscosity,data_source,model_basis,true_K,true_n,true_tau_y
+CMC,0.5,25,0.1,0.026837,0.268368,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,0.137382,0.033144,0.241257,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,0.188739,0.043597,0.230991,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,0.259294,0.05553,0.214159,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,0.356225,0.066466,0.186584,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,0.48939,0.085482,0.174669,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,0.672336,0.111658,0.166075,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,0.923671,0.140434,0.152039,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,1.268961,0.17928,0.141281,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,1.743329,0.223693,0.128314,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,2.395027,0.293864,0.122697,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,3.290345,0.372157,0.113106,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,4.520354,0.465633,0.103008,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,6.210169,0.603394,0.097162,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,8.531679,0.755804,0.088588,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,11.721023,0.933871,0.079675,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,16.10262,1.21466,0.075432,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,22.122163,1.500729,0.067838,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,30.391954,1.975714,0.065008,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,41.753189,2.461357,0.05895,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,57.361525,3.114929,0.054303,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,78.804628,3.913361,0.049659,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,108.263673,5.157562,0.047639,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,148.735211,6.368795,0.04282,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,204.335972,8.03736,0.039334,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,280.72162,10.214774,0.036388,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,385.662042,13.193061,0.034209,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,529.831691,16.686197,0.031493,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,727.895384,21.194014,0.029117,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,25,1000.0,26.904027,0.026904,synthetic,Power Law,0.15,0.75,0.0
+CMC,0.5,40,0.1,0.017307,0.173067,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,0.137382,0.021088,0.153501,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,0.188739,0.026959,0.142836,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,0.259294,0.034327,0.132385,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,0.356225,0.045255,0.127039,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,0.48939,0.058564,0.119667,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,0.672336,0.073203,0.108878,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,0.923671,0.092415,0.100052,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,1.268961,0.118432,0.09333,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,1.743329,0.156275,0.089642,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,2.395027,0.200572,0.083745,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,3.290345,0.255941,0.077786,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,4.520354,0.320048,0.070802,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,6.210169,0.417477,0.067225,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,8.531679,0.533604,0.062544,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,11.721023,0.684997,0.058442,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,16.10262,0.888962,0.055206,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,22.122163,1.124355,0.050825,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,30.391954,1.45348,0.047824,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,41.753189,1.839605,0.044059,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,57.361525,2.367163,0.041267,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,78.804628,3.053229,0.038744,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,108.263673,3.750177,0.034639,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,148.735211,4.916966,0.033059,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,204.335972,6.280063,0.030734,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,280.72162,8.018076,0.028562,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,385.662042,10.347726,0.026831,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,529.831691,13.72847,0.025911,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,727.895384,16.78137,0.023055,synthetic,Power Law,0.1,0.78,0.0
+CMC,0.5,40,1000.0,22.301289,0.022301,synthetic,Power Law,0.1,0.78,0.0
+CMC,1.0,25,0.1,0.206324,2.063241,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,0.137382,0.256601,1.86779,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,0.188739,0.313579,1.661443,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,0.259294,0.382611,1.475584,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,0.356225,0.464074,1.302757,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,0.48939,0.562405,1.149195,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,0.672336,0.665168,0.989338,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,0.923671,0.802961,0.869315,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,1.268961,0.997417,0.786011,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,1.743329,1.181903,0.677957,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,2.395027,1.398881,0.584078,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,3.290345,1.697489,0.5159,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,4.520354,2.062822,0.456341,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,6.210169,2.567899,0.413499,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,8.531679,3.085141,0.36161,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,11.721023,3.77359,0.321951,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,16.10262,4.465086,0.277289,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,22.122163,5.466261,0.247094,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,30.391954,6.675352,0.219642,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,41.753189,7.927521,0.189866,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,57.361525,9.739593,0.169793,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,78.804628,11.522909,0.146221,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,108.263673,14.026316,0.129557,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,148.735211,16.964409,0.114058,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,204.335972,20.1889,0.098802,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,280.72162,25.269332,0.090016,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,385.662042,29.994845,0.077775,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,529.831691,36.644618,0.069163,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,727.895384,44.752373,0.061482,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,25,1000.0,54.110336,0.05411,synthetic,Power Law,0.85,0.6,0.0
+CMC,1.0,40,0.1,0.127674,1.276745,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,0.137382,0.154093,1.121634,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,0.188739,0.187595,0.99394,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,0.259294,0.231471,0.892697,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,0.356225,0.274509,0.770607,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,0.48939,0.338055,0.690767,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,0.672336,0.415312,0.617715,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,0.923671,0.512323,0.55466,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,1.268961,0.645696,0.508838,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,1.743329,0.770741,0.442109,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,2.395027,0.954606,0.398578,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,3.290345,1.209311,0.367533,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,4.520354,1.434061,0.317245,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,6.210169,1.796007,0.289204,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,8.531679,2.128329,0.249462,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,11.721023,2.646748,0.225812,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,16.10262,3.194812,0.198403,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,22.122163,3.96367,0.179172,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,30.391954,4.972404,0.163609,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,41.753189,5.785428,0.138563,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,57.361525,7.406909,0.129127,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,78.804628,9.040987,0.114727,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,108.263673,10.895321,0.100637,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,148.735211,13.120851,0.088216,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,204.335972,16.580951,0.081146,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,280.72162,20.074078,0.071509,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,385.662042,24.977641,0.064766,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,529.831691,30.479001,0.057526,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,727.895384,38.528446,0.052931,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.0,40,1000.0,45.528011,0.045528,synthetic,Power Law,0.55,0.64,0.0
+CMC,1.5,25,0.1,1.037929,10.379292,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,0.137382,1.238543,9.015301,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,0.188739,1.443678,7.649065,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,0.259294,1.719566,6.631713,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,0.356225,1.982309,5.56477,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,0.48939,2.287037,4.673239,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,0.672336,2.722194,4.04886,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,0.923671,3.007101,3.255598,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,1.268961,3.541706,2.791028,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,1.743329,4.100987,2.352389,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,2.395027,4.828584,2.016088,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,3.290345,5.511888,1.67517,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,4.520354,6.685207,1.478912,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,6.210169,7.654294,1.232542,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,8.531679,8.691197,1.018697,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,11.721023,10.217424,0.871718,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,16.10262,12.22292,0.759064,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,22.122163,14.384234,0.650218,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,30.391954,17.134844,0.563795,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,41.753189,20.308623,0.486397,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,57.361525,22.53578,0.392873,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,78.804628,25.516059,0.323789,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,108.263673,29.02529,0.268098,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,148.735211,35.499947,0.238679,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,204.335972,40.457249,0.197994,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,280.72162,47.500653,0.169209,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,385.662042,55.103587,0.142881,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,529.831691,64.790535,0.122285,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,727.895384,77.286698,0.106178,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,25,1000.0,88.412149,0.088412,synthetic,Power Law,3.2,0.48,0.0
+CMC,1.5,40,0.1,0.632178,6.321778,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,0.137382,0.732577,5.332396,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,0.188739,0.852849,4.518666,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,0.259294,1.030735,3.975154,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,0.356225,1.226446,3.442899,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,0.48939,1.499446,3.063907,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,0.672336,1.712751,2.547464,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,0.923671,2.054667,2.224458,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,1.268961,2.353173,1.854409,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,1.743329,2.737287,1.57015,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,2.395027,3.243365,1.354208,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,3.290345,3.844496,1.168418,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,4.520354,4.797488,1.061308,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,6.210169,5.338747,0.859678,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,8.531679,6.509983,0.763037,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,11.721023,7.415953,0.632705,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,16.10262,9.074498,0.563542,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,22.122163,10.589135,0.478666,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,30.391954,12.356376,0.406567,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,41.753189,14.609108,0.349892,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,57.361525,17.020686,0.296727,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,78.804628,20.525018,0.260454,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,108.263673,23.778273,0.219633,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,148.735211,27.611904,0.185645,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,204.335972,32.535259,0.159224,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,280.72162,39.52021,0.140781,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,385.662042,47.923725,0.124264,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,529.831691,54.974143,0.103758,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,727.895384,64.485705,0.088592,synthetic,Power Law,2.1,0.52,0.0
+CMC,1.5,40,1000.0,76.682256,0.076682,synthetic,Power Law,2.1,0.52,0.0
+XG,0.25,25,0.1,0.246366,2.46366,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,0.137382,0.268393,1.953621,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,0.188739,0.295766,1.567064,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,0.259294,0.341019,1.315181,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,0.356225,0.377319,1.059217,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,0.48939,0.433272,0.885331,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,0.672336,0.474944,0.70641,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,0.923671,0.520534,0.563549,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,1.268961,0.58612,0.46189,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,1.743329,0.703966,0.403806,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,2.395027,0.798172,0.333262,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,3.290345,0.871399,0.264835,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,4.520354,0.984595,0.217814,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,6.210169,1.159578,0.186722,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,8.531679,1.251935,0.14674,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,11.721023,1.429787,0.121985,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,16.10262,1.67776,0.104192,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,22.122163,1.870801,0.084567,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,30.391954,2.147409,0.070657,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,41.753189,2.438955,0.058414,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,57.361525,2.807821,0.04895,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,78.804628,3.269348,0.041487,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,108.263673,3.633025,0.033557,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,148.735211,4.190081,0.028171,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,204.335972,4.526443,0.022152,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,280.72162,5.381121,0.019169,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,385.662042,6.044171,0.015672,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,529.831691,6.846924,0.012923,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,727.895384,7.871587,0.010814,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,25,1000.0,9.08737,0.009087,synthetic,Herschel-Bulkley,0.5,0.42,0.05
+XG,0.25,40,0.1,0.157009,1.57009,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,0.137382,0.168668,1.227724,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,0.188739,0.195394,1.03526,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,0.259294,0.21853,0.842787,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,0.356225,0.248322,0.697094,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,0.48939,0.289445,0.59144,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,0.672336,0.326213,0.485194,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,0.923671,0.377551,0.408751,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,1.268961,0.418304,0.329643,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,1.743329,0.472784,0.271196,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,2.395027,0.546055,0.227995,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,3.290345,0.631219,0.19184,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,4.520354,0.722617,0.159858,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,6.210169,0.808178,0.130138,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,8.531679,0.95012,0.111364,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,11.721023,1.094477,0.093377,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,16.10262,1.315334,0.081684,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,22.122163,1.494125,0.06754,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,30.391954,1.628436,0.053581,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,41.753189,1.89567,0.045402,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,57.361525,2.130704,0.037145,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,78.804628,2.497701,0.031695,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,108.263673,2.929655,0.02706,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,148.735211,3.434836,0.023094,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,204.335972,3.808275,0.018637,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,280.72162,4.395498,0.015658,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,385.662042,4.912959,0.012739,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,529.831691,5.898238,0.011132,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,727.895384,6.677066,0.009173,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.25,40,1000.0,7.782238,0.007782,synthetic,Herschel-Bulkley,0.35,0.45,0.03
+XG,0.5,25,0.1,1.391864,13.918638,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,0.137382,1.545085,11.246605,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,0.188739,1.635157,8.663582,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,0.259294,1.804182,6.958044,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,0.356225,2.128939,5.976392,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,0.48939,2.18894,4.472791,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,0.672336,2.421375,3.601437,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,0.923671,2.831832,3.065845,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,1.268961,3.192671,2.515972,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,1.743329,3.258659,1.869217,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,2.395027,3.666691,1.530961,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,3.290345,4.120886,1.252418,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,4.520354,4.695799,1.038812,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,6.210169,4.937828,0.79512,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,8.531679,5.566778,0.652483,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,11.721023,6.313327,0.538633,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,16.10262,6.972424,0.432999,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,22.122163,7.631898,0.344989,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,30.391954,8.535676,0.280853,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,41.753189,9.267525,0.22196,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,57.361525,10.564152,0.184168,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,78.804628,11.764433,0.149286,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,108.263673,13.243975,0.122331,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,148.735211,14.534188,0.097719,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,204.335972,16.544744,0.080968,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,280.72162,18.652229,0.066444,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,385.662042,20.459533,0.05305,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,529.831691,22.919002,0.043257,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,727.895384,25.426449,0.034931,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,25,1000.0,28.350509,0.028351,synthetic,Herschel-Bulkley,2.5,0.35,0.3
+XG,0.5,40,0.1,0.916939,9.169386,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,0.137382,1.033114,7.519989,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,0.188739,1.133004,6.003014,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,0.259294,1.310393,5.053688,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,0.356225,1.439911,4.042142,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,0.48939,1.563936,3.195685,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,0.672336,1.701574,2.530839,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,0.923671,1.883641,2.039299,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,1.268961,2.201761,1.735089,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,1.743329,2.415922,1.38581,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,2.395027,2.714296,1.133305,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,3.290345,2.905214,0.882951,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,4.520354,3.435858,0.760086,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,6.210169,3.817277,0.614682,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,8.531679,4.150771,0.486513,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,11.721023,4.721529,0.402826,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,16.10262,5.383039,0.334296,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,22.122163,6.024892,0.272346,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,30.391954,6.727957,0.221373,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,41.753189,7.596738,0.181944,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,57.361525,8.522707,0.148579,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,78.804628,9.670966,0.122721,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,108.263673,11.174665,0.103217,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,148.735211,11.597003,0.077971,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,204.335972,13.704276,0.067067,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,280.72162,15.567417,0.055455,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,385.662042,17.582879,0.045591,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,529.831691,19.551909,0.036902,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,727.895384,21.422041,0.02943,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,0.5,40,1000.0,25.191091,0.025191,synthetic,Herschel-Bulkley,1.8,0.38,0.18
+XG,1.0,25,0.1,5.58496,55.849603,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,0.137382,5.611334,40.844641,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,0.188739,6.323084,33.501701,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,0.259294,6.638259,25.601246,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,0.356225,7.183192,20.164773,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,0.48939,7.586094,15.501119,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,0.672336,8.30246,12.348681,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,0.923671,9.258742,10.023855,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,1.268961,9.865398,7.77439,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,1.743329,10.912502,6.259577,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,2.395027,11.685212,4.878949,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,3.290345,12.475112,3.79143,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,4.520354,13.872563,3.068911,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,6.210169,14.667756,2.361893,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,8.531679,16.042068,1.880294,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,11.721023,17.035126,1.453382,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,16.10262,18.643692,1.157805,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,22.122163,19.956592,0.902109,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,30.391954,22.445142,0.738523,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,41.753189,23.380565,0.559971,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,57.361525,26.467915,0.461423,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,78.804628,28.263995,0.358659,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,108.263673,31.623041,0.292093,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,148.735211,34.1668,0.229716,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,204.335972,38.015874,0.186046,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,280.72162,40.564275,0.1445,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,385.662042,42.216139,0.109464,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,529.831691,47.464896,0.089585,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,727.895384,50.622085,0.069546,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,25,1000.0,55.96034,0.05596,synthetic,Herschel-Bulkley,8.0,0.28,1.2
+XG,1.0,40,0.1,3.53621,35.362103,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,0.137382,3.761431,27.379285,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,0.188739,3.969533,21.031844,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,0.259294,4.282273,16.515102,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,0.356225,4.756003,13.35113,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,0.48939,5.049816,10.318591,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,0.672336,5.568089,8.281709,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,0.923671,6.200469,6.712856,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,1.268961,6.891256,5.430628,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,1.743329,7.460324,4.279356,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,2.395027,7.703502,3.216458,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,3.290345,8.90544,2.706537,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,4.520354,9.726869,2.151794,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,6.210169,10.754627,1.731777,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,8.531679,12.100685,1.418324,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,11.721023,12.35824,1.054365,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,16.10262,14.015818,0.870406,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,22.122163,15.799742,0.714204,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,30.391954,16.65599,0.548039,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,41.753189,19.513978,0.467365,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,57.361525,21.050488,0.366979,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,78.804628,23.436588,0.297401,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,108.263673,25.135849,0.232173,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,148.735211,28.517274,0.191732,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,204.335972,31.638746,0.154837,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,280.72162,34.364272,0.122414,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,385.662042,37.955573,0.098417,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,529.831691,41.9599,0.079195,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,727.895384,45.31697,0.062258,synthetic,Herschel-Bulkley,5.5,0.32,0.8
+XG,1.0,40,1000.0,50.810233,0.05081,synthetic,Herschel-Bulkley,5.5,0.32,0.8
