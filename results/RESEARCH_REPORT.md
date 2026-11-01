@@ -1,6 +1,6 @@
 # Physics-Guided Machine Learning for Rheological Modelling and Engineering Prediction of Non-Newtonian Fluid Flow
 
-**Author**: Senior ML Engineer & Chemical Engineering Researcher  
+**Author**: MA RIZWAN  
 **Institution**: MNNIT Chemical Engineering Minor Project  
 **Date**: October 2026  
 **Repository**: `MLrheology`  
